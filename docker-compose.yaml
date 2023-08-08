@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  app:
+    build:
+      context: ./
+    env_file: .env.dev
+    container_name: api-crewler
+    ports:
+      - 3000:3000
+      - 9229:9229
+    volumes:
+      - .:/app
+    networks:
+      - default
+
+networks:
+  api-crewler-backend_default:

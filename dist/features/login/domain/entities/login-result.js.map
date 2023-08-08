@@ -1,0 +1,1 @@
+{"version":3,"file":"login-result.js","sourceRoot":"","sources":["../../../../../src/features/login/domain/entities/login-result.ts"],"names":[],"mappings":";;;AAAA,MAAa,WAAW;IAGtB,QAAQ;QACN,MAAM,MAAM,GAAG;YACb,aAAa,EAAE,IAAI,CAAC,aAAa;SAClC,CAAA;QACD,OAAO,IAAI,CAAC,SAAS,CAAC,MAAM,CAAC,CAAA;IAC/B,CAAC;CACF;AATD,kCASC"}
